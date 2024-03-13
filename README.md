@@ -1,11 +1,15 @@
 ####################################
+
 Digital Order Management System
+
 ####################################
 
 This is a digital system designed to eliminate the need for paper usage and simplify the process of order management. It utilizes the Google Drive API and Trello API for storing and organizing orders, respectively.
 
 ####################################
+
 FEATURES
+
 ####################################
 
 1. Paper Elimination: Digitizes the order management process, reducing the need for paper usage.
@@ -14,7 +18,9 @@ FEATURES
 4. Integration with Trello: Utilizes the Trello API to manage orders, allowing visualization and updates on a Kanban board.
 
 ####################################
+
 HOW TO USE
+
 ####################################
 
 Requirements
@@ -38,11 +44,17 @@ Execution
 2. Follow the provided instructions to add, view, update, and delete orders.
 
 ####################################
-Contributions
+
+CONTRIBUTION
+
 ####################################
+
 Contributions are welcome! Feel free to open issues or send pull requests to improve this system.
 
 ####################################
+
 LICENSE
+
 ####################################
+
 This project is licensed under the MIT License.
